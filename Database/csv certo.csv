@@ -1,0 +1,35 @@
+﻿nome;tipo;cor;categoria;imagem_path;clima_min;clima_max
+Moletom Branco;casaco;branco;dia a dia,sair;C:\Users\pedro\OneDrive\Desktop\Projeto_Roupa\Imagens\moletom_branco.jpg;7;25
+Moletom st cruz;casaco;azul com branco;dia a dia;imagens/;7;25
+Moletom nike;casaco;preto;dia a dia;imagens/;7;25
+Moletom wcm;casaco;verde escuro;sair;imagens/;7;25
+Moletom class;casaco;verde escuro;sair;C:\Users\pedro\OneDrive\Desktop\Projeto_Roupa\Imagens\moletom_class.jpg;7;25
+Moletom lepre;casaco;branco;sair;C:\Users\pedro\OneDrive\Desktop\Projeto_Roupa\Imagens\moletom_lepre.jpg;7;25
+Camisa cahartt;superior;branco;sair;C:\Users\pedro\OneDrive\Desktop\Projeto_Roupa\Imagens\camisa_cahartt.jpg;7;40
+Camisa carnan preta;superior;preto;sair;imagens/;7;30
+Camisa marrom;superior;marrom;sair;C:\Users\pedro\OneDrive\Desktop\Projeto_Roupa\Imagens\camisa_marrom.jpg;7;30
+Camisa pace;superior;branco;dia a dia,sair;imagens/;7;30
+Camisa high branca;superior;branco;dia a dia;imagens/;7;40
+Camisa high preta;superior;preto;dia a dia;imagens/;7;30
+Camisa piet c rosa;superior;branco;dia a dia,sair;C:\Users\pedro\OneDrive\Desktop\Projeto_Roupa\Imagens\camisa_pietr.jpg;7;40
+Camisa piet c verde;superior;branco;dia a dia,sair;C:\Users\pedro\OneDrive\Desktop\Projeto_Roupa\Imagens\camisa_pietv.jpg;7;40
+Camisa branca midas;superior;branco;dia a dia;imagens/;7;40
+Camisa preta barra;superior;preto;dia a dia;imagens/;7;40
+Camisa branca stussy;superior;branco;sair;imagens/;7;40
+camisa leordre;superior;branco;sair;C:\Users\pedro\OneDrive\Desktop\Projeto_Roupa\Imagens\camisa_leordre.jpg;7;30
+Camisa preta stussy;superior;preto;sair;imagens/;7;40
+Camisa botão;superior;bege;sair;imagens/;20;40
+Short branco;inferior;branco;sair;C:\Users\pedro\OneDrive\Desktop\Projeto_Roupa\Imagens\short_branco.jpg;25;40
+short sopro;inferior;preto;dia a dia;C:\Users\pedro\OneDrive\Desktop\Projeto_Roupa\Imagens\short_sopro.jpg;25;40
+short barra;inferior;preto;sair;C:\Users\pedro\OneDrive\Desktop\Projeto_Roupa\Imagens\short_barra.jpg;25;40
+jorts;inferior;jeans cinza;dia a dia,sair;C:\Users\pedro\OneDrive\Desktop\Projeto_Roupa\Imagens\jort.jpg;25;40
+Calça Jeans clara;inferior;jeans claro;dia a dia,sair;C:\Users\pedro\OneDrive\Desktop\Projeto_Roupa\Imagens\calça_jeans_clara.jpg;7;25
+Calça Jeans preta;inferior;jeans preto;sair;C:\Users\pedro\OneDrive\Desktop\Projeto_Roupa\Imagens\calça_jeans_preta.jpg;7;25
+Calça jeans cinza;inferior;jeans cinza escuro;dia a dia,sair;C:\Users\pedro\OneDrive\Desktop\Projeto_Roupa\Imagens\calça_jeans_cinza.jpg;7;25
+Calça moletom cinza;inferior;cinza claro;dia a dia;C:\Users\pedro\OneDrive\Desktop\Projeto_Roupa\Imagens\calça_moletom_cinza.jpg;7;25
+Nb 550;calçado;branco;dia a dia,sair;C:\Users\pedro\OneDrive\Desktop\Projeto_Roupa\Imagens\Nb_550.jpg;7;40
+Nike blazer;calçado;branco;dia a dia,sair;C:\Users\pedro\OneDrive\Desktop\Projeto_Roupa\Imagens\blazer.jpg;7;40
+Superstar bape;calçado;branco;sair;C:\Users\pedro\OneDrive\Desktop\Projeto_Roupa\Imagens\superxbape.jpg;7;40
+Chinelo rider;calçado;preto;dia a dia;C:\Users\pedro\OneDrive\Desktop\Projeto_Roupa\Imagens\rider.jpg;20;40
+Havaianas branco;calçado;branco;dia a dia;C:\Users\pedro\OneDrive\Desktop\Projeto_Roupa\Imagens\havaianas.jpg;20;40
+Vans Preto;calçado;preto;dia a dia;C:\Users\pedro\OneDrive\Desktop\Projeto_Roupa\Imagens\vans.jpg;7;40

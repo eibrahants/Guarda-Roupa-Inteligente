@@ -1,0 +1,87 @@
+# =============================================================================
+# .gitignore - GUARDA ROUPA INTELIGENTE
+# =============================================================================
+
+# Backend - Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Frontend - Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn-integrity
+dist/
+build/
+.vite/
+
+# Database
+*.db-journal
+*.db-wal
+*.db-shm
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Ambiente
+.env
+.env.local
+.env.production
+
+# Uploads temporários
+temp/
+tmp/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Cache
+.cache/
+*.cache
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Temporary
+.tmp/
+temp/
+*.tmp
+
+# Build artifacts
+.vite/

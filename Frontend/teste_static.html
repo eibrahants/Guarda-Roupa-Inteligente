@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StyleAI - Teste</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background: #f5f5f5;
+            margin: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 { color: #333; }
+        button {
+            background: #000;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🤖 StyleAI - Sistema de Roupas</h1>
+        <p>Se você está vendo esta página, o servidor está funcionando!</p>
+        <button onclick="alert('JavaScript funcionando!')">Testar JS</button>
+        
+        <h2>Status do Sistema:</h2>
+        <ul>
+            <li>✅ Servidor Web: Funcionando</li>
+            <li>✅ HTML: Carregando</li>
+            <li>✅ CSS: Aplicado</li>
+            <li id="js-status">⏳ JavaScript: Testando...</li>
+        </ul>
+        
+        <p><a href="http://localhost:5000" target="_blank">Testar Backend (Flask)</a></p>
+    </div>
+    
+    <script>
+        document.getElementById('js-status').innerHTML = '✅ JavaScript: Funcionando';
+        console.log('StyleAI: Sistema carregado com sucesso!');
+    </script>
+</body>
+</html>
