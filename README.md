@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 👕 Guarda Roupa Inteligente
 
 Um sistema inteligente de sugestão de roupas baseado em IA que analisa o clima em tempo real e recomenda os melhores outfits para cada ocasião.
@@ -369,3 +370,7 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 [⬆ Voltar ao topo](#-guarda-roupa-inteligente)
 
 </div>
+=======
+# Guarda-Roupa-Inteligente
+Projeto pessoal
+>>>>>>> bef930019a0a9b6f5aa3abd4aa3c2c5a5f6ceaea
